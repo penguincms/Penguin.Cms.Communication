@@ -1,0 +1,47 @@
+Microsoft (R) Build Engine version 16.3.0+0f4c62fea for .NET Core
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Restore completed in 30.86 ms for C:\Penguin\Repositories\Penguin.Extensions.String\Penguin.Extensions.String.Local.csproj.
+  Restore completed in 30.86 ms for C:\Penguin\Repositories\Penguin.Reflection.Abstractions\Penguin.Reflection.Abstractions.Local.csproj.
+  Restore completed in 30.87 ms for C:\Penguin\Repositories\Penguin.Entities.Abstractions\Penguin.Entities.Abstractions.Local.csproj.
+  Restore completed in 30.87 ms for C:\Penguin\Repositories\Penguin.Cms.Communication\Penguin.Cms.Communication.Local.csproj.
+  Restore completed in 30.86 ms for C:\Penguin\Repositories\Penguin.Cms.Entities\Penguin.Cms.Entities.Local.csproj.
+  Restore completed in 30.87 ms for C:\Penguin\Repositories\Penguin.Reflection.Extensions\Penguin.Reflection.Extensions.Local.csproj.
+  Restore completed in 30.86 ms for C:\Penguin\Repositories\Penguin.Persistence.Abstractions\Penguin.Persistence.Abstractions.Local.csproj.
+  Penguin.Entities.Abstractions.Local -> C:\Penguin\Repositories\Penguin.Entities.Abstractions\bin\Release\netstandard2.0\Penguin.Entities.Abstractions.Local.dll
+  Penguin.Extensions.String.Local -> C:\Penguin\Repositories\Penguin.Extensions.String\bin\Release\netstandard2.0\Penguin.Extensions.String.Local.dll
+  Penguin.Reflection.Abstractions.Local -> C:\Penguin\Repositories\Penguin.Reflection.Abstractions\bin\Release\netstandard2.0\Penguin.Reflection.Abstractions.Local.dll
+  Penguin.Reflection.Extensions.Local -> C:\Penguin\Repositories\Penguin.Reflection.Extensions\bin\Release\netstandard2.0\Penguin.Reflection.Extensions.Local.dll
+  Penguin.Persistence.Abstractions.Local -> C:\Penguin\Repositories\Penguin.Persistence.Abstractions\bin\Release\netstandard2.0\Penguin.Persistence.Abstractions.Local.dll
+  Penguin.Cms.Entities.Local -> C:\Penguin\Repositories\Penguin.Cms.Entities\bin\Release\netstandard2.0\Penguin.Cms.Entities.Local.dll
+ChatMessage.cs(6,18): warning CS1591: Missing XML comment for publicly visible type or member 'ChatMessage' [C:\Penguin\Repositories\Penguin.Cms.Communication\Penguin.Cms.Communication.Local.csproj]
+ChatMessage.cs(8,21): warning CS1591: Missing XML comment for publicly visible type or member 'ChatMessage.ChatSession' [C:\Penguin\Repositories\Penguin.Cms.Communication\Penguin.Cms.Communication.Local.csproj]
+ChatMessage.cs(9,23): warning CS1591: Missing XML comment for publicly visible type or member 'ChatMessage.Contents' [C:\Penguin\Repositories\Penguin.Cms.Communication\Penguin.Cms.Communication.Local.csproj]
+ChatMessage.cs(10,23): warning CS1591: Missing XML comment for publicly visible type or member 'ChatMessage.DisplayName' [C:\Penguin\Repositories\Penguin.Cms.Communication\Penguin.Cms.Communication.Local.csproj]
+ChatMessage.cs(12,21): warning CS1591: Missing XML comment for publicly visible type or member 'ChatMessage.User' [C:\Penguin\Repositories\Penguin.Cms.Communication\Penguin.Cms.Communication.Local.csproj]
+ChatSession.cs(5,18): warning CS1591: Missing XML comment for publicly visible type or member 'ChatSession' [C:\Penguin\Repositories\Penguin.Cms.Communication\Penguin.Cms.Communication.Local.csproj]
+ChatUserSession.cs(6,18): warning CS1591: Missing XML comment for publicly visible type or member 'ChatUserSession' [C:\Penguin\Repositories\Penguin.Cms.Communication\Penguin.Cms.Communication.Local.csproj]
+ChatUserSession.cs(8,21): warning CS1591: Missing XML comment for publicly visible type or member 'ChatUserSession.ChatSession' [C:\Penguin\Repositories\Penguin.Cms.Communication\Penguin.Cms.Communication.Local.csproj]
+ChatUserSession.cs(9,21): warning CS1591: Missing XML comment for publicly visible type or member 'ChatUserSession.User' [C:\Penguin\Repositories\Penguin.Cms.Communication\Penguin.Cms.Communication.Local.csproj]
+  Penguin.Cms.Communication.Local -> C:\Penguin\Repositories\Penguin.Cms.Communication\bin\Release\netstandard2.0\Penguin.Cms.Communication.Local.dll
+  Successfully created package 'C:\Penguin\Repositories\Penguin.Cms.Communication\bin\Release\Penguin.Cms.Communication.Local.1.0.0.nupkg'.
+C:\Program Files\dotnet\sdk\3.0.100\Sdks\NuGet.Build.Tasks.Pack\build\NuGet.Build.Tasks.Pack.targets(198,5): warning NU5048: The 'PackageIconUrl'/'iconUrl' element is deprecated. Consider using the 'PackageIcon'/'icon' element instead. Learn more at https://aka.ms/deprecateIconUrl [C:\Penguin\Repositories\Penguin.Cms.Communication\Penguin.Cms.Communication.Local.csproj]
+  Successfully created package 'C:\Penguin\Repositories\Penguin.Cms.Communication\bin\Release\Penguin.Cms.Communication.Local.1.0.0.snupkg'.
+
+Build succeeded.
+
+ChatMessage.cs(6,18): warning CS1591: Missing XML comment for publicly visible type or member 'ChatMessage' [C:\Penguin\Repositories\Penguin.Cms.Communication\Penguin.Cms.Communication.Local.csproj]
+ChatMessage.cs(8,21): warning CS1591: Missing XML comment for publicly visible type or member 'ChatMessage.ChatSession' [C:\Penguin\Repositories\Penguin.Cms.Communication\Penguin.Cms.Communication.Local.csproj]
+ChatMessage.cs(9,23): warning CS1591: Missing XML comment for publicly visible type or member 'ChatMessage.Contents' [C:\Penguin\Repositories\Penguin.Cms.Communication\Penguin.Cms.Communication.Local.csproj]
+ChatMessage.cs(10,23): warning CS1591: Missing XML comment for publicly visible type or member 'ChatMessage.DisplayName' [C:\Penguin\Repositories\Penguin.Cms.Communication\Penguin.Cms.Communication.Local.csproj]
+ChatMessage.cs(12,21): warning CS1591: Missing XML comment for publicly visible type or member 'ChatMessage.User' [C:\Penguin\Repositories\Penguin.Cms.Communication\Penguin.Cms.Communication.Local.csproj]
+ChatSession.cs(5,18): warning CS1591: Missing XML comment for publicly visible type or member 'ChatSession' [C:\Penguin\Repositories\Penguin.Cms.Communication\Penguin.Cms.Communication.Local.csproj]
+ChatUserSession.cs(6,18): warning CS1591: Missing XML comment for publicly visible type or member 'ChatUserSession' [C:\Penguin\Repositories\Penguin.Cms.Communication\Penguin.Cms.Communication.Local.csproj]
+ChatUserSession.cs(8,21): warning CS1591: Missing XML comment for publicly visible type or member 'ChatUserSession.ChatSession' [C:\Penguin\Repositories\Penguin.Cms.Communication\Penguin.Cms.Communication.Local.csproj]
+ChatUserSession.cs(9,21): warning CS1591: Missing XML comment for publicly visible type or member 'ChatUserSession.User' [C:\Penguin\Repositories\Penguin.Cms.Communication\Penguin.Cms.Communication.Local.csproj]
+C:\Program Files\dotnet\sdk\3.0.100\Sdks\NuGet.Build.Tasks.Pack\build\NuGet.Build.Tasks.Pack.targets(198,5): warning NU5048: The 'PackageIconUrl'/'iconUrl' element is deprecated. Consider using the 'PackageIcon'/'icon' element instead. Learn more at https://aka.ms/deprecateIconUrl [C:\Penguin\Repositories\Penguin.Cms.Communication\Penguin.Cms.Communication.Local.csproj]
+    10 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:03.27
+
