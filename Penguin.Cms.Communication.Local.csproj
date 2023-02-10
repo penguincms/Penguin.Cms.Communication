@@ -2,12 +2,13 @@
   <Import Project="Penguin.Projects.Shared\Penguin.Projects.Shared.csproj" />
   <PropertyGroup>
     <TargetFrameworks>netstandard2.0;netstandard2.1;net5.0</TargetFrameworks>
-    <PackageProjectUrl>https://github.com/PenguinCMS/Penguin.Cms.Communication</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/PenguinCms/Penguin.Cms.Communication</PackageProjectUrl>
     <Version>5.0.5</Version>
     <Description>Not Available</Description>
     <AssemblyName>Penguin.Cms.Communication</AssemblyName>
     <RootNamespace>Penguin.Cms.Communication</RootNamespace>
     <DocumentationFile>Penguin.Cms.Communication.xml</DocumentationFile>
+    <LangVersion>latest</LangVersion>
   </PropertyGroup>
   <ItemGroup>
     <ProjectReference Include="..\Penguin.Cms.Entities\Penguin.Cms.Entities.Local.csproj" />
